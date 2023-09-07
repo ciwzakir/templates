@@ -1,0 +1,418 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "New Study Reveals Benefits of Regular Exercise",
+      "description": "A recent study conducted by experts in the field suggests that regular exercise can have numerous health benefits, including improved cardiovascular function and increased mental well-being.",
+      "author": "Healthline",
+      "release_date": "June 10, 2023",
+      "category": "Health",
+      "comment_count": 445,
+      "image_url": "/images/exercise_image.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Tech Company XYZ Launches Revolutionary Smartphone",
+      "description": "Tech Company XYZ has unveiled its latest smartphone model, boasting cutting-edge features, a powerful processor, and an impressive camera system.",
+      "author": "TechNews",
+      "release_date": "June 12, 2023",
+      "category": "Technology",
+      "comment_count": 350,
+      "image_url": "/images/company_image.jpg"
+    },
+    {
+      "id": "3",
+      "title": "SpaceX Successfully Launches Satellite into Orbit",
+      "description": "SpaceX, the private space exploration company, has successfully launched a communication satellite into orbit, marking another milestone in the company's achievements.",
+      "author": "Space News Today",
+      "release_date": "June 15, 2023",
+      "category": "Space",
+      "comment_count": 115,
+      "image_url": "/images/satellite_image.jpg"
+    },
+    {
+      "id": "4",
+      "title": "New Study Shows Benefits of Meditation for Stress Relief",
+      "description": "A recent scientific study has found that regular meditation practice can significantly reduce stress levels and promote a sense of calm and well-being.",
+      "author": "Mindfulness Magazine",
+      "release_date": "June 16, 2023",
+      "category": "Lifestyle",
+      "comment_count": 250,
+      "image_url": "/images/meditation_image.jpg"
+    }
+  ],
+
+  "pcdata": [
+    {
+      "id": "1",
+      "image_url": "/images/processor-1.jpg",
+      "name": "Intel 10th Gen Core i3 10100F Processor",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": 15000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store X and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "2",
+      "image_url": "/images/processor-2.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "Out of Stock",
+      "price": 20000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel ",
+        "model": "12th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "10 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.5,
+      "reviews": "“I got a pair of PC from store X and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "3",
+      "image_url": "/images/processor-3.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "Out of Stock",
+      "price": 18000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel ",
+        "model": "8th Gen Core i5 10100H",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.6,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "4",
+      "image_url": "/images/processor-4.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": 17000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel ",
+        "model": "8th Gen Core i5 10100H",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+
+      "average_rating": 5,
+      "reviews": "“I got a pair of PC from store X and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "5",
+      "image_url": "/images/motherboard-1.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "6",
+      "image_url": "/images/motherboard-2.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "Out of Stock",
+      "price": 12000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "7",
+      "image_url": "/images/motherboard-3.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "8",
+      "image_url": "/images/motherboard-4.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "Out of Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "9",
+      "image_url": "/images/ram-1.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 5000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "10",
+      "image_url": "/images/ram-2.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "Out of Stock",
+      "price": 6000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "11",
+      "image_url": "/images/ram-3.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "12",
+      "image_url": "/images/ram-4.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "Out of Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "13",
+      "image_url": "/images/powersupply-1.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "14",
+      "image_url": "/images/powersupply-2.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "In Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "15",
+      "image_url": "/images/powersupply-3.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "16",
+      "image_url": "/images/powersupply-4.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "17",
+      "image_url": "/images/storage-1.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "18",
+      "image_url": "/images/storage-2.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "19",
+      "image_url": "/images/storage-3.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "20",
+      "image_url": "/images/storage-4.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 12000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "21",
+      "image_url": "/images/monitor-1.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 15000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "22",
+      "image_url": "/images/monitor-2.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "Out of Stock",
+      "price": 18000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "23",
+      "image_url": "/images/monitor-3.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 17000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "24",
+      "image_url": "/images/monitor-4.jpg",
+      "name": "Processor ",
+      "category": "Monitor",
+      "status": "Out of Stock",
+      "price": 25000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "25",
+      "image_url": "/images/others-1.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 2000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "26",
+      "image_url": "/images/others-2.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "Out of Stock",
+      "price": 5000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "27",
+      "image_url": "/images/others-3.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 3000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    },
+    {
+      "id": "28",
+      "image_url": "/images/others-4.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "Out of Stock",
+      "price": 6000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "average_rating": 5,
+      "reviews": "Brand, Model, Specification, Port, Type, Resolution, Voltage, etc"
+    }
+  ]
+}
